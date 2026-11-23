@@ -14,4 +14,4 @@ gcc filename.c -o output
 
 ## Author
 Aadarsh Kumar Yadav
-Feel free to star⭐ this repo if you it helpful! 
+Feel free to star⭐ this repo if you find it helpful! 
